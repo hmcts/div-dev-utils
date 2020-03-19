@@ -1,0 +1,76 @@
+{
+    "case_creation_details": {
+        "case_type_id": "FinancialRemedyMVP2",
+        "event_id": "FR_newPaperCase",
+        "case_data": {
+            "rSolicitorAddress": {
+                "AddressLine1": "Drive",
+                "Country": "Scotland",
+                "PostTown": "Leeds",
+                "PostCode": "SW9 USB",
+                "County": "Where"
+            },
+            "applicantIntendsTo": "ApplyToCourtFor",
+            "solicitorEmail": "test@example.com",
+            "natureOfApplication2": [
+                "Periodical Payment Order",
+                "Pension Attachment Order"
+            ],
+            "solicitorDXnumber": "DX123",
+            "divorceStageReached": "Decree Nisi",
+            "natureOfApplication6": "to meet expenses incurred by a child in being educated or training for work",
+            "authorisationSolicitorAddress": "1 Single Lane, Liverpool, LE5 AV2",
+            "authorisationName": "Saul B. Kol",
+            "authorisationSigned": "Yes",
+            "applicantFMName": "Peter",
+            "authorisationSignedBy": "Applicant's solicitor",
+            "solicitorName": "Saul Call",
+            "authorisation3": "2020-03-12",
+            "natureOfApplication5b": "there is a written agreement made before 5 April 1993 about maintenance for the benefit of children",
+            "solicitorReference": "SOL-RED",
+            "authorisation2b": "I'm the CEO",
+            "PBANumber": "PBA123456",
+            "applicantLName": "Griffin",
+            "solicitorAddress": {
+                "AddressLine1": "20 Solicitors Road",
+                "Country": "UK",
+                "PostTown": "Soltown",
+                "PostCode": "GL51 0EX",
+                "County": "East Midlands"
+            },
+            "respondentAddress": {
+                "AddressLine1": "Avenue",
+                "Country": "UK",
+                "PostTown": "Bristol",
+                "PostCode": "SW1 9SD",
+                "County": "Here"
+            },
+            "solicitorFirm": "Better Divorce Ltd",
+            "appRespondentLName": "Griffin",
+            "bulkScanCaseReference": "LV481297",
+            "applicantAddress": {
+                "AddressLine1": "Road",
+                "Country": "UK",
+                "PostTown": "Manchester",
+                "PostCode": "SW9 9SD",
+                "County": "There"
+            },
+            "natureOfApplication3b": "We split the mortgage for our house",
+            "natureOfApplication3a": "255 Westminster Avenue",
+            "ChildSupportAgencyCalculationMade": "Yes",
+            "applyingForConsentOrder": "Yes",
+            "divorceCaseNumber": "1234567890",
+            "applicantEmail": "applicant@divorcity.com",
+            "appRespondentFMname": "Louis",
+            "provisionMadeFor": "in connection with matrimonial or civil partnership proceedings",
+            "solicitorPhone": "0712456543",
+            "applicantRepresentPaper": "I am not represented by a solicitor in these proceedings",
+            "ChildSupportAgencyCalculationReason": "Decided based on some random calculations we made",
+            "HWFNumber": "123456",
+            "authorisationFirm": "Better Divorce Ltd",
+            "applicantPhone": "0712345654",
+            "orderForChildrenQuestion1": "Yes"
+        }
+    },
+    "warnings": []
+}
