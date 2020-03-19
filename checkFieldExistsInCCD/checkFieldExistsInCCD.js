@@ -51,10 +51,10 @@ const runAnalysis = (keysBeingInserted) => {
     }
 
     console.log(`Created authorisation file. Could not find ${amountOfFieldsNotFound} fields from a list of ${keysBeingInserted.length} fields`);
-    const ccdFieldFile = fs.createWriteStream('./output/ccdFieldsToAdd.txt');
+    const ccdFieldFile = fs.createWriteStream('./output/ccdFieldsToAdd.json');
     ccdFieldFile.write(JSON.stringify(ccdNewFields, '\n', 2));
 
-    const ccdFieldAuthorisationFile = fs.createWriteStream('./output/ccdFieldAuthorisationFile.txt');
+    const ccdFieldAuthorisationFile = fs.createWriteStream('./output/ccdFieldAuthorisationsToAdd.json');
     ccdFieldAuthorisationFile.write(JSON.stringify(ccdNewFieldsAuthorisation, '\n', 2));
 };
 
